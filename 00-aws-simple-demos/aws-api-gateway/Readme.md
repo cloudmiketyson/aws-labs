@@ -457,3 +457,6 @@ Search for the "api-return-ip” Log Group, select the log group , click <kbd>Ac
 ![Untitled](images/Untitled%2041.png)
 
 In the confirmation popup, click <kbd>Delete</kbd>
+
+
+youtube video link: https://www.youtube.com/watch?v=sDxsTPbUiik
